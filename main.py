@@ -133,5 +133,5 @@ def find_best_stats(filename, param='ADR'):
 
 
 if __name__ == '__main__':
-    get_stats(226)
+    get_stats(396)
     # print(find_best_stats('hltv.json', 'Rating 2.0'))
